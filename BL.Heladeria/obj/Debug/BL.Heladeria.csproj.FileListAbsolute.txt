@@ -1,0 +1,133 @@
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Sistema_heladeria\heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Sistema_heladeria\heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Sistema_heladeria\heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Sistema_heladeria\heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Sistema_heladeria\heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\50495\OneDrive\Documentos\Jennifer\Lenguaje 2\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\CristianJeffryn&mart\Desktop\Nueva carpeta\Proyecto\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\jaime\Desktop\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\CristianJeffryn&mart\Desktop\Parte de Jaime\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\david\Documents\3 Periodo 2021\Lenguaje de Programacion III\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\50495\OneDrive\Documentos\Couser hero tareas\Proyecto_l3\Heladeria\BL.Heladeria\bin\Debug\stdole.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\stdole.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\50495\OneDrive\Documentos\Jennifer\Base de datos 1\Proyecto Heladeria l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll.config
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\BL.Heladeria.pdb
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\stdole.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.xml
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.csprojResolveAssemblyReference.cache
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.dll
+C:\Users\keili\OneDrive\Escritorio\KEYLIN\Proyecto Heladeria l3\Heladeria\BL.Heladeria\obj\Debug\BL.Heladeria.pdb
